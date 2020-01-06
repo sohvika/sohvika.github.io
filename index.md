@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> First year Language Technology student in the master's program Linguistic Diversity in the Digital Age of University of Helsinki. Background in language learning and teaching, namely with English, French, and other Romance languages. Main interests are language learning technologies and speech recognition as a tool for learning and accessibility. 
+<img src="assets/images/profilepic.jpg" alt="Photo" hspace="20" width="30%" align="right"/> First year Language Technology student in the master's program Linguistic Diversity in the Digital Age of University of Helsinki. Background in language learning and teaching, namely with English, French, and other Romance languages. Main interests are language learning technologies and speech recognition as a tool for learning and accessibility. 
 
 Hobbies and pastimes include cooking, baking, listening to true crime podcasts, karaoke and starting (and quitting) new sporting hobbies regularly. 
 
@@ -30,6 +30,10 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
+[Training repo for the command line course](https://github.com/sohvika/cmdline-course)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[My Favourite Murder -podcast on Spotify](https://open.spotify.com/show/0U9S5J2ltMaKdxIfLuEjzE) 
+
+[My most used recipe blog Chocochili](https://chocochili.net/)
