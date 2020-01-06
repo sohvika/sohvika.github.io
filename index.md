@@ -4,11 +4,13 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> First year Language Technology student in the master's program Linguistic Diversity in the Digital Age of University of Helsinki. Background in language learning and teaching, namely with English, French, and other Romance languages. Main interests are language learning technologies and speech recognition as a tool for learning and accessibility. 
+
+Hobbies and pastimes include cooking, baking, listening to true crime podcasts, karaoke and starting (and quitting) new sporting hobbies regularly. 
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/sohvika)
 
 ## Contact
 
@@ -16,9 +18,15 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[COMMAND LINE TOOLS FOR LINGUISTS](https://courses.helsinki.fi/en/kik-lg219/129824412), fall 2019
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[DIVERSITY AND VARIATION](https://courses.helsinki.fi/en/lda-3102/130805771), fall 2019
+
+[INTRODUCTION TO SPEECH ANALYSIS](https://courses.helsinki.fi/en/kik-lg212/129824127), fall 2019
+
+[LINGUISTICS IN THE DIGITAL AGE](https://courses.helsinki.fi/en/lda-3103/130805706), fall 2019
+
+[THEORY AND METHOD IN LANGUAGE SCIENCES](https://courses.helsinki.fi/en/lda-3101/130805385), fall 2019
 
 ## Projects
 
