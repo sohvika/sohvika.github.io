@@ -16,6 +16,10 @@ Hobbies and pastimes include cooking, baking, listening to true crime podcasts, 
 
 My email address is of the form first_name.last_name@helsinki.fi. 
 
+## Curriculum Vitae
+
+[My up-to-date CV can be found here](https://www.overleaf.com/read/syzkwjrmvzcm)
+
 ## Courses I've Taken
 
 [COMMAND LINE TOOLS FOR LINGUISTS](https://courses.helsinki.fi/en/kik-lg219/129824412), fall 2019
